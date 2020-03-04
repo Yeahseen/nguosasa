@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,3 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # nguosasa
 >>>>>>> 348597407b08b3c8cb4763d49962b1a28b6eed5d
+=======
+# nguosasa
+>>>>>>> 3cd149275496bd5c4ebea35bfd01b607b4826a13
